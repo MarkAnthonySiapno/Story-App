@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>The Story of  Kalabaw and Kambing Part1</item>
+        <item>The Story of  Kalabaw and Kambing Part2</item>
+        <item>The Story of  Kalabaw and Kambing Part3</item>
+        <item>The Story of  Kalabaw and Kambing Part4</item>
+    </string-array>
+</resources>

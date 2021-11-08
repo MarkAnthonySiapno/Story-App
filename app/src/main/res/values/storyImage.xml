@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+        <item>https://images6.alphacoders.com/846/846782.jpg</item>
+        <item>https://static.wikia.nocookie.net/parody/images/2/27/Lupe_%28Fox%29.png/revision/latest/scale-to-width-down/807?cb=20210704000345</item>
+        <item>https://cdn.traileraddict.com/content/screencap/121915.jpg</item>
+        <item>https://s.yimg.com/ny/api/res/1.2/kPeX1ESsHIc7MMnxP3vgjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQwMjtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/Grx8ZbfPfKL3OTReIYUyVA--~B/aD05MDA7dz0yMTQ4O2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/6f486777b89fde1229e342209136ff74</item>
+    </string-array>
+</resources>
